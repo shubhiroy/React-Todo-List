@@ -1,4 +1,4 @@
-https://github.com/shubhiroy/React-Todo-List/workflows/React%20CI/CD/badge.svg
+<img src="https://github.com/shubhiroy/React-Todo-List/workflows/React%20CI/CD/badge.svg" />
 
 
 
