@@ -1,4 +1,5 @@
-<img src="https://github.com/shubhiroy/React-Todo-List/workflows/React%20CI/CD/badge.svg" />
+![React CI/CD](https://github.com/shubhiroy/React-Todo-List/workflows/React%20CI/CD/badge.svg?branch=deploy)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
